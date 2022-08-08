@@ -1,0 +1,84 @@
+.NodeWrapper {
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.NodeInnerWrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px;
+  border-left-width: 3px;
+  border-left-style: solid;
+  border-left-color: currentColor;
+  border-radius: 2px;
+  background-color: var(--color-white);
+  box-shadow: var(--elevation-z1);
+  transition: box-shadow 0.2s ease-in-out;
+  cursor: pointer;
+
+  &[aria-disabled="true"] {
+    cursor: not-allowed;
+  }
+
+  &:not([aria-disabled="true"]):hover {
+    box-shadow: var(--elevation-z2);
+  }
+
+  &:not([aria-disabled="true"])[data-selected="true"] {
+    box-shadow: inset 0px 0px 0px 1px currentColor, var(--elevation-z3);
+  }
+  &.ConditionNode {
+    // width: 350px;
+  }
+  > .closeIcon {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    > svg {
+      color: red;
+    }
+  }
+}
+
+.EmptyNodeInnerWrapper {
+  width: 1px;
+  height: 1px;
+  background-color: var(--edges-stroke-color);
+}
+
+.NodeContent {
+  display: flex;
+  flex-direction: column;
+}
+
+.NodeIcon {
+  font-size: 18px;
+  padding: 4px;
+}
+
+.NodeTitle {
+  color: var(--color-base900);
+  font-size: 14px;
+  text-transform: upppercase;
+}
+
+.NodeDesc {
+  color: var(--color-base700);
+  font-size: 12px;
+}
+
+.NodePort {
+  &.react-flow__handle {
+    border: 0;
+    background-color: var(--edges-stroke-color);
+  }
+
+  // &[data-handlepos="bottom"] {
+  //   width: 1px;
+  //   background-color: var(--edges-stroke-color);
+  // }
+}
