@@ -1,5 +1,9 @@
 ### Clone this repo and use `yarn` to run the application
 
+Want to collaboration for your project?
+let me know then : 
+## azimaahmed36@gmail.com
+
 ## Another work live link :
 ### https://boneguide.netlify.app/workflow
 features: 
@@ -22,7 +26,5 @@ https://fsm-editor.netlify.app/
 ![image](https://user-images.githubusercontent.com/67516192/229745803-dfeee1e7-8e3f-4673-8910-918b664caa51.png)
 
 
-Want to collaboration for your project?
-let me know then : 
-## azimaahmed36@gmail.com
+
 ![image](https://user-images.githubusercontent.com/67516192/218781461-0aac3060-ee8d-442b-a2ff-31bb1b9031a4.png)
