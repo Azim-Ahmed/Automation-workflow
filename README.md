@@ -7,6 +7,10 @@ let me know then :
 ## Group layout with multiple nodes
 ### https://group-layout-flow.netlify.app/
 
+## preview
+![image](https://github.com/Azim-Ahmed/Automation-workflow/assets/67516192/5c9acc61-9027-4c3c-9457-6230677d8598)
+
+
 ## Another work live link :
 ### https://boneguide.netlify.app/workflow
 features: 
