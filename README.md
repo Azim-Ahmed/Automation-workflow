@@ -29,6 +29,12 @@ features:
 
 ![image](https://user-images.githubusercontent.com/67516192/229745209-f4679186-5cec-401c-9b8d-1e5066a3aeb0.png)
 
+## Data analytics 
+
+### https://flow-diagram-automate.vercel.app/
+![image](https://github.com/Azim-Ahmed/Automation-workflow/assets/67516192/c41b5416-6a77-4f88-be5e-f92e713eb1ea)
+
+
 ## live link 
 https://workflowautomation.netlify.app/
 
