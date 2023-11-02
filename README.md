@@ -10,6 +10,7 @@ let me know then :
 ## preview
 ![image](https://github.com/Azim-Ahmed/Automation-workflow/assets/67516192/5c9acc61-9027-4c3c-9457-6230677d8598)
 
+![Flow_chart_diagram0](https://github.com/Azim-Ahmed/Automation-workflow/assets/67516192/e7ef290c-3f06-4e10-b663-f5bf9ca7b09b)
 
 ## Another work live link :
 ### https://boneguide.netlify.app/workflow
