@@ -1,5 +1,5 @@
 ### Clone this repo and use `yarn` to run the application
-### this is based on v-10
+### this is based on v-10 and v-11 is coming soon
 Want to collaboration for your project?
 let me know then your project mind: :3
 ## azimaahmed36+reactflow@gmail.com
