@@ -11,7 +11,9 @@ let me know then your project mind: :3
 ![image](https://github.com/Azim-Ahmed/Automation-workflow/assets/67516192/5c9acc61-9027-4c3c-9457-6230677d8598)
 ## New Drag and drop
 - https://check-automate.vercel.app/
-![image](https://github.com/Azim-Ahmed/Automation-workflow/assets/67516192/dae895a2-b71d-4b75-b1c8-d23c1d3eb179)
+  
+![image](https://github.com/Azim-Ahmed/Automation-workflow/assets/67516192/63eb35b9-d9ff-4f93-8d53-9847d5223cc6)
+
 
 
 ### only design : 
