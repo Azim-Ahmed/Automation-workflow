@@ -15,7 +15,6 @@ let me know then your project mind: :3
 ![image](https://github.com/Azim-Ahmed/Automation-workflow/assets/67516192/63eb35b9-d9ff-4f93-8d53-9847d5223cc6)
 
 
-
 ### only design : 
 ![Flow_chart_diagram0](https://github.com/Azim-Ahmed/Automation-workflow/assets/67516192/e7ef290c-3f06-4e10-b663-f5bf9ca7b09b)
 
@@ -77,3 +76,6 @@ https://voiceflow-two.vercel.app/
 
 ![image](https://github.com/Azim-Ahmed/Automation-workflow/assets/67516192/85f50dd6-0fe1-450b-9a6c-c421a4056ecf)
 
+## Dynamic Handles
+
+![WhatsApp Image 2024-05-03 at 11 54 02 PM](https://github.com/Azim-Ahmed/Automation-workflow/assets/67516192/c113f343-88d1-4c0a-ba6c-904b69767204)
