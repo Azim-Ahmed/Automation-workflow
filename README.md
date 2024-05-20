@@ -82,7 +82,6 @@ https://voiceflow-two.vercel.app/
 ## Last one
 ![image](https://github.com/Azim-Ahmed/Automation-workflow/assets/67516192/f0965567-33fa-46db-ad2c-1297a31d8883)
 
-![image](https://github.com/Azim-Ahmed/Automation-workflow/assets/67516192/85f50dd6-0fe1-450b-9a6c-c421a4056ecf)
 
 ## Dynamic Handles
 
