@@ -24,6 +24,10 @@ https://app.squarebear.com.au/
 
 <img width="1436" alt="image" src="https://github.com/Azim-Ahmed/Automation-workflow/assets/67516192/032ca98d-2c5f-419e-9263-7b6567d0756e">
 
+## Dalus
+<img width="1507" alt="image" src="https://github.com/Azim-Ahmed/Automation-workflow/assets/67516192/0798387c-1506-4688-a47b-188de913c8f2">
+
+
 ### only design : 
 ![Flow_chart_diagram0](https://github.com/Azim-Ahmed/Automation-workflow/assets/67516192/e7ef290c-3f06-4e10-b663-f5bf9ca7b09b)
 
