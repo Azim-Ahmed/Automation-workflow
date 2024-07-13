@@ -14,8 +14,8 @@ contact me through email to see
 ![image](https://github.com/Azim-Ahmed/Automation-workflow/assets/67516192/5c9acc61-9027-4c3c-9457-6230677d8598)
 ## New Drag and drop
 - https://check-automate.vercel.app/
-  
-![image](https://github.com/Azim-Ahmed/Automation-workflow/assets/67516192/63eb35b9-d9ff-4f93-8d53-9847d5223cc6)
+- <img width="1510" alt="image" src="https://github.com/user-attachments/assets/499ba6c0-39a0-4ac4-9827-ae3621aaf5f0">
+
 
 ## Auto layout previous implementation
 https://auto-layout-workflow.vercel.app/
