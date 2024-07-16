@@ -4,20 +4,18 @@ Want to collaboration for your project?
 let me know then your project mind: : with pro-features and custom logic
 ## azimaahmed36+reactflow+github@gmail.com
 
-## Group layout with multiple nodes
-### https://group-layout-flow.netlify.app/
-
 ### chatbot builder-->
 contact me through email to see
 
-## preview
-![image](https://github.com/Azim-Ahmed/Automation-workflow/assets/67516192/5c9acc61-9027-4c3c-9457-6230677d8598)
 ## New Drag and drop
 - https://check-automate.vercel.app/
-
+## Preview
 <img width="1507" alt="image" src="https://github.com/user-attachments/assets/c615f08d-6011-4a09-b8ff-cb13738473be">
 
-
+## Group layout with multiple nodes
+### https://group-layout-flow.netlify.app/
+## preview
+![image](https://github.com/Azim-Ahmed/Automation-workflow/assets/67516192/5c9acc61-9027-4c3c-9457-6230677d8598)
 
 ## Auto layout previous implementation
 https://auto-layout-workflow.vercel.app/
