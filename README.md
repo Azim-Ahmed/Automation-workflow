@@ -1,6 +1,7 @@
 ### Clone this repo and use `yarn` to run the application
 ### this is based on v-10 ->
 Want to collaboration for your project?
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="azimahmed" data-color="#FFDD00" data-emoji="☕"  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 let me know then your project mind: : with pro-features and custom logic
 ## azimaahmed36+reactflow+github@gmail.com
 
