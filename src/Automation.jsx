@@ -8,8 +8,10 @@ import { nodeTypes } from "./Nodes";
 import { edgeTypes } from "./Edges";
 import { getLayoutedElements } from "./Utils/WorkflowLayoutUtils";
 import "./Automation.css";
-import data from "./Data/Elements2";
-
+/*
+* Author:Azim Ahmed
+* email:azimaahmed36@gmail.com
+*/
 export const Automation = (props) => {
   const { elements } = props;
   const [layoutElements, setLayoutElements] = React.useState([]);
@@ -20,10 +22,6 @@ export const Automation = (props) => {
 
   const layoutNodes = layoutElements.filter((x) => x.position);
   const layoutEdges = layoutElements.filter((x) => !x.position);
-
-  // console.error({ layoutNodes, layoutEdges });
-
-  // const { layoutNodes, layoutEdges } = data;
 
   return (
     <div className="AutomationCanvas">
@@ -38,6 +36,7 @@ export const Automation = (props) => {
           zoomOnScroll={false}
           zoomOnPinch={false}
           panOnScroll
+          defaultPosition={[500, 50]}
           panOnDrag
           preventScrolling
         >
