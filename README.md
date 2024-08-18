@@ -13,7 +13,8 @@ contact me through email to see
 ## New Drag and drop
 ## https://check-automate.vercel.app/  --(PAID)
 ## Preview
-<img width="1507" alt="image" src="https://github.com/user-attachments/assets/c615f08d-6011-4a09-b8ff-cb13738473be">
+<img width="1508" alt="image" src="https://github.com/user-attachments/assets/3f353e08-4509-4690-80c0-b103f3f8c7a2">
+
 
 ## Group layout with multiple nodes
 ### https://group-layout-flow.netlify.app/
