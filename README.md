@@ -15,6 +15,11 @@ contact me through email to see
 ## Preview
 <img width="1508" alt="image" src="https://github.com/user-attachments/assets/3f353e08-4509-4690-80c0-b103f3f8c7a2">
 
+Updated Design with 
+### Automation flow 
+#### https://automationflow.vercel.app/
+
+<img width="1303" alt="image" src="https://github.com/user-attachments/assets/c7a3bbe0-ba58-4032-bd98-2e2fcf2141e5">
 
 ## Group layout with multiple nodes
 ### https://group-layout-flow.netlify.app/
@@ -66,12 +71,6 @@ features:
 https://workflowautomation.netlify.app/
 
 ![image](https://user-images.githubusercontent.com/67516192/218781461-0aac3060-ee8d-442b-a2ff-31bb1b9031a4.png)
-
-Updated Design with 
-### Automation flow 
-#### https://automationflow.vercel.app/
-
-<img width="1303" alt="image" src="https://github.com/user-attachments/assets/c7a3bbe0-ba58-4032-bd98-2e2fcf2141e5">
 
 
 ## Prosp ( Cold outreach model)
