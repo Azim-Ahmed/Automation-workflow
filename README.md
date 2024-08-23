@@ -67,7 +67,12 @@ https://workflowautomation.netlify.app/
 
 ![image](https://user-images.githubusercontent.com/67516192/218781461-0aac3060-ee8d-442b-a2ff-31bb1b9031a4.png)
 
-![image](https://github.com/Azim-Ahmed/Automation-workflow/assets/67516192/3aa6cca6-fbb7-4d64-b670-8417948ad082)
+Updated Design with 
+### Automation flow 
+#### https://automationflow.vercel.app/
+
+<img width="1303" alt="image" src="https://github.com/user-attachments/assets/c7a3bbe0-ba58-4032-bd98-2e2fcf2141e5">
+
 
 ## Prosp ( Cold outreach model)
 
