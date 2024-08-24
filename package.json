@@ -10,6 +10,7 @@
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
     "@tisoap/react-flow-smart-edge": "^2.0.0",
+    "@xyflow/react": "^12.1.1",
     "antd": "^4.22.3",
     "dagre": "^0.8.5",
     "fp-ts": "2.11.7",
