@@ -1,5 +1,5 @@
 ### Clone this repo and use `yarn` to run the application
-### this is based on v-10 ->
+### this is based on v-10, 11 ->
 Want to collaboration for your project?
 
 <a href="https://www.buymeacoffee.com/azimahmed" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
@@ -13,7 +13,13 @@ contact me through email to see
 ## New Drag and drop
 ## https://check-automate.vercel.app/  --(PAID)
 ## Preview
-<img width="1507" alt="image" src="https://github.com/user-attachments/assets/c615f08d-6011-4a09-b8ff-cb13738473be">
+<img width="1508" alt="image" src="https://github.com/user-attachments/assets/3f353e08-4509-4690-80c0-b103f3f8c7a2">
+
+Updated Design with 
+### Automation flow 
+#### https://automationflow.vercel.app/
+
+<img width="1303" alt="image" src="https://github.com/user-attachments/assets/c7a3bbe0-ba58-4032-bd98-2e2fcf2141e5">
 
 ## Group layout with multiple nodes
 ### https://group-layout-flow.netlify.app/
@@ -66,7 +72,6 @@ https://workflowautomation.netlify.app/
 
 ![image](https://user-images.githubusercontent.com/67516192/218781461-0aac3060-ee8d-442b-a2ff-31bb1b9031a4.png)
 
-![image](https://github.com/Azim-Ahmed/Automation-workflow/assets/67516192/3aa6cca6-fbb7-4d64-b670-8417948ad082)
 
 ## Prosp ( Cold outreach model)
 
