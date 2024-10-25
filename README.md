@@ -9,6 +9,7 @@ let me know then your project mind: : with pro-features and custom logic:
 
 ## I have https://landbot.io/ examples, contact me to see...
 
+### Join [Discord server](https://discord.com/invite/zh72eGKk3N) to talk immediately 
 ### chatbot builder-->
 contact me through email to see
 
