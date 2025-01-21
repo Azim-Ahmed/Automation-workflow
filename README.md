@@ -6,7 +6,7 @@ let me know new update
 
 <a href="https://www.buymeacoffee.com/azimahmed" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 --> customized examples
-let me know then your project mind: : with pro-features and custom logic and new implementation:
+let me know then your project mind: : with pro-features and custom logic and new implementation suggestion
 ## azimaahmed36+reactflow+github@gmail.com
 
 ## I have https://landbot.io/ examples, contact me to see...
