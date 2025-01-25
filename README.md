@@ -13,7 +13,7 @@ let me know then your project mind: : with pro-features and custom logic and new
 
 ### Join [Discord server](https://discord.com/invite/zh72eGKk3N) to talk immediately 
 ### chatbot builder-->
-contact me through email to see
+contact me through email to see more
 
 ### ask for better examples
 
