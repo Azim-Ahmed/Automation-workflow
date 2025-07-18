@@ -1,6 +1,6 @@
 ## React flow Examples
 ## Reactflow Examples
-## Automation workflow examples
+## Automation workflow example
 Want to collaboration for your project?
 let me know your thoughts and issue
 
