@@ -1,4 +1,4 @@
-# 🚀 React Flow Examples • Workflow Automation • Visual Flow Builder  
+# 🚀 React Flow Examples • Workflow Automation • Visual Flow Builders
 *A curated collection of advanced, real-world **ReactFlow examples** used for automation workflows, chatbot builders, drag‑and‑drop editors, visual node systems, and AI‑powered pipelines.*
 
 > This repo provides **production-grade React Flow implementations**, advanced layouts (ELK.js, Dagre), automation builders, JSON‑based node rendering, conditional routing, and enterprise‑level UI patterns.
